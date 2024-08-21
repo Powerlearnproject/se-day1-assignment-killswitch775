@@ -8,16 +8,16 @@ Explain what software engineering is and discuss its importance in the technolog
 Is the process of using scientific principle to create software, it uses systematic approch to design build the software solution.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-1. Structure programing{1960s-1970s}:brought in clear control like loops structures and conditionals, making it easier to read and less error-prone.
-2. Object-oriented program: Focused on organising code around objects, promting modularity, reuse and easier to maintain.
-3. Agile methodulogy: changed how teams work by emphasizing flexibbility, collaboration and rapid development to quickly devlope high-quality software.
+Structure programing{1960s-1970s}:brought in clear control like loops structures and conditionals, making it easier to read and less error-prone.
+Object-oriented program: Focused on organising code around objects, promting modularity, reuse and easier to maintain.
+Agile methodulogy: changed how teams work by emphasizing flexibbility, collaboration and rapid development to quickly devlope high-quality software.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-1. Planiing: Identifying projects goals , gather requirmenets, and define the scope.This phase sets the foundation of the project,determining resources and buggets.
-2. Designing: create the architecture and design the softweare components, this includes in chosing the technologies, defining the data structure and desiguning interface.
-3. Analysis: Analyze the requrements to understand what needs to archive.This phase often involve creating detail specifications.
-4. Implimentation: write the actual code based on design. This is the phase were softwere is developed and coded.
-5. Testing: Verify the software works as intended by runing various tests. This phase tests for bugs, security issues and ensures the software meets the requrments.
+Planiing: Identifying projects goals , gather requirmenets, and define the scope.This phase sets the foundation of the project,determining resources and buggets.
+Designing: create the architecture and design the softweare components, this includes in chosing the technologies, defining the data structure and desiguning interface.
+Analysis: Analyze the requrements to understand what needs to archive.This phase often involve creating detail specifications.
+Implimentation: write the actual code based on design. This is the phase were softwere is developed and coded.
+Testing: Verify the software works as intended by runing various tests. This phase tests for bugs, security issues and ensures the software meets the requrments.
 6. Deployment: releses the software to user.This could invove, instaling the software and its enviroment.
 7. Maintainace:after deplyment the software is monitored for issues and  update as needed. This phase includes fixing bugs and making improvments.
 
