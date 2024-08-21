@@ -63,17 +63,17 @@ What are some common challenges faced by software engineers? Provide strategies 
 +Keeping Up with Technology: Technology changes quickly, making it hard to stay current.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-+Tight Deadlines: Pressure to finish projects quickly can cause stress.
+Tight Deadlines: Pressure to finish projects quickly can cause stress.
 +Solution: Use good time management and break work into smaller tasks.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-+1. Unit Testing:
-+Tests individual components or functions of the code to ensure they work correctly.
-+Importance: Catches bugs early in development, making it easier to pinpoint problems and maintain code quality.
-+2. Integration Testing:
+1. Unit Testing:
+Tests individual components or functions of the code to ensure they work correctly.
+Importance: Catches bugs early in development, making it easier to pinpoint problems and maintain code quality.
+2. Integration Testing:
 +Tests how different components or systems work together.
 +Importance: Ensures that combined parts of the software interact correctly, helping to find issues that might not appear in unit tests.
-+3. System Testing:
+3. System Testing:
 +Tests the entire system as a whole to verify that it meets the specified requirements.
 +Importance: Validates the complete system’s functionality, performance, and compatibility to ensure it works as intended from end to end.
 +4. Acceptance Testing:
@@ -94,6 +94,6 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 +Vague Prompt:
-+"Tell me about machine learning."
++Tell me about machine learning.
 +Improved Prompt:
-+"Explain the concept of supervised learning in machine learning, including its key components and how it differs from unsupervised learning."
++Explain the concept of supervised learning in machine learning, including its key components and how it differs from unsupervised learning.
