@@ -3,7 +3,7 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-+question:
+question:
 Explain what software engineering is and discuss its importance in the technology industry.
 +ans:
 +Is the process of using scientific principle to create software, it uses systematic approch to design build the software solution.
