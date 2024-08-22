@@ -6,10 +6,10 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 +ans:
-Is the process of using scientific principle to create software, it uses systematic approch to design build the software solutioon.
++Is the process of using scientific principle to create software, it uses systematic approch to design build the software solution.
 Identify and describe at least three key milestones in the evolution of software engineering.
-Structure programing{1960s-1970s}:brought in clear control like loops structures and conditionals, making it easier to read and less error-prone.
 +ans:
++Structure programing{1960s-1970s}:brought in clear control like loops structures and conditionals, making it easier to read and less error-prone.
 +Object-oriented program: Focused on organising code around objects, promting modularity, reuse and easier to maintain.
 +Agile methodulogy: changed how teams work by emphasizing flexibbility, collaboration and rapid development to quickly devlope high-quality software.
 List and briefly explain the phases of the Software Development Life Cycle.
@@ -32,6 +32,7 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 +Flexible:allows for changes and adjustments as the project progresses
 +waterfall is rigid and best for stable projects, while Agile is flexible and adopts to changes.
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
++ans:
 +A software develper writes and maintainces the code, turning idea into working software.
 +A Quality Assurance (QA) Engineer tests the software to ensure it’s bug-free and meets quality standards.
 +A Project Manager coordinates the team, manages timelines, and ensures the project stays on track and meets its goals.
@@ -59,7 +60,6 @@ What are some common challenges faced by software engineers? Provide strategies 
 +Solution: Keep code organized and modular; refactor regularly.
 +Keeping Up with Technology: Technology changes quickly, making it hard to stay current.
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-+ans:
 +Tight Deadlines: Pressure to finish projects quickly can cause stress.
 +Solution: Use good time management and break work into smaller tasks.
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
@@ -79,7 +79,6 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 #Part 2: Introduction to AI and Prompt Engineering.
 +ans:
 +AI involves creating computer systems that can perform tasks usually requiring human intelligence, like recognizing speech, making decisions, or playing games.
-
 Define prompt engineering and discuss its importance in interacting with AI models
 +ans:
 +Prompt engineering is the process of designing and refining the inputs (prompts) given to AI models to get useful and accurate responses.
@@ -88,7 +87,6 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 +Enhances Usability: Effective prompts make it easier to interact with AI, ensuring that the model's outputs align with user needs and expectations.
 +Optimizes Performance: By experimenting with different prompt formulations, users can discover how to best leverage AI capabilities and improve overall performance.
 +Reduces Errors: Proper prompt engineering minimizes misunderstandings and errors in AI responses, leading to more reliable outcomes.
-
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 +ans:
 +Vague Prompt:
